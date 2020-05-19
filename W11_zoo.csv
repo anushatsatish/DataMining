@@ -1,0 +1,102 @@
+name,gender,origin,hair,feathers,eggs,milk,airborne,aquatic,predator,toothed,backbone,breathes,venomous,fins,legs,tail,domestic,catsize,type
+aardvark,Male,Europe,1,0,0,1,0,0,1,1,1,1,0,0,4,0,0,1,1
+antelope,Male,Asia,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1
+bass,Male,South America,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0,4
+bear,Male,North America,1,0,0,1,0,0,1,1,1,1,0,0,4,0,0,1,1
+boar,Female,North America,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+buffalo,Female,North America,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1
+calf,Female,Africa,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1,1
+carp,Male,Oceania,0,0,1,0,0,1,0,1,1,0,0,1,0,1,1,0,4
+catfish,Female,Africa,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0,4
+cavy,Male,South America,1,0,0,1,0,0,0,1,1,1,0,0,4,0,1,0,1
+cheetah,Female,Asia,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+chicken,Male,South America,0,1,1,0,1,0,0,0,1,1,0,0,2,1,1,0,2
+chub,Female,Africa,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0,4
+clam,Female,North America,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7
+crab,Female,Africa,0,0,1,0,0,1,1,0,0,0,0,0,4,0,0,0,7
+crayfish,Male,Africa,0,0,1,0,0,1,1,0,0,0,0,0,6,0,0,0,7
+crow,Male,North America,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,0,2
+deer,Female,North America,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1
+dogfish,Male,Europe,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,1,4
+dolphin,Female,Africa,0,0,0,1,0,1,1,1,1,1,0,1,0,1,0,1,1
+dove,Female,Europe,0,1,1,0,1,0,0,0,1,1,0,0,2,1,1,0,2
+duck,Female,Oceania,0,1,1,0,1,1,0,0,1,1,0,0,2,1,0,0,2
+elephant,Male,Africa,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1
+flamingo,Male,Oceania,0,1,1,0,1,0,0,0,1,1,0,0,2,1,0,1,2
+flea,Male,North America,0,0,1,0,0,0,0,0,0,1,0,0,6,0,0,0,6
+frog,Female,Asia,0,0,1,0,0,1,1,1,1,1,0,0,4,0,0,0,5
+frog,Female,North America,0,0,1,0,0,1,1,1,1,1,1,0,4,0,0,0,5
+fruitbat,Male,South America,1,0,0,1,1,0,0,1,1,1,0,0,2,1,0,0,1
+giraffe,Female,North America,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1
+girl,Female,Europe,1,0,0,1,0,0,1,1,1,1,0,0,2,0,1,1,1
+gnat,Female,Oceania,0,0,1,0,1,0,0,0,0,1,0,0,6,0,0,0,6
+goat,Male,Europe,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1,1
+gorilla,Female,Oceania,1,0,0,1,0,0,0,1,1,1,0,0,2,0,0,1,1
+gull,Male,Africa,0,1,1,0,1,1,1,0,1,1,0,0,2,1,0,0,2
+haddock,Female,North America,0,0,1,0,0,1,0,1,1,0,0,1,0,1,0,0,4
+hamster,Female,North America,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,0,1
+hare,Male,Asia,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,0,1
+hawk,Female,Europe,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,0,2
+herring,Female,North America,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0,4
+honeybee,Male,Oceania,1,0,1,0,1,0,0,0,0,1,1,0,6,0,1,0,6
+housefly,Female,Oceania,1,0,1,0,1,0,0,0,0,1,0,0,6,0,0,0,6
+kiwi,Female,Oceania,0,1,1,0,0,0,1,0,1,1,0,0,2,1,0,0,2
+ladybird,Male,Asia,0,0,1,0,1,0,1,0,0,1,0,0,6,0,0,0,6
+lark,Female,Africa,0,1,1,0,1,0,0,0,1,1,0,0,2,1,0,0,2
+leopard,Female,Africa,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+lion,Male,South America,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+lobster,Female,South America,0,0,1,0,0,1,1,0,0,0,0,0,6,0,0,0,7
+lynx,Female,Oceania,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+mink,Female,Asia,1,0,0,1,0,1,1,1,1,1,0,0,4,1,0,1,1
+mole,Female,North America,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,0,1
+mongoose,Female,Europe,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+moth,Male,Oceania,1,0,1,0,1,0,0,0,0,1,0,0,6,0,0,0,6
+newt,Female,South America,0,0,1,0,0,1,1,1,1,1,0,0,4,1,0,0,5
+octopus,Female,Oceania,0,0,1,0,0,1,1,0,0,0,0,0,8,0,0,1,7
+opossum,Male,Africa,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,0,1
+oryx,Female,Africa,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,1
+ostrich,Female,Europe,0,1,1,0,0,0,0,0,1,1,0,0,2,1,0,1,2
+parakeet,Female,Europe,0,1,1,0,1,0,0,0,1,1,0,0,2,1,1,0,2
+penguin,Male,Asia,0,1,1,0,0,1,1,0,1,1,0,0,2,1,0,1,2
+pheasant,Male,North America,0,1,1,0,1,0,0,0,1,1,0,0,2,1,0,0,2
+pike,Male,Oceania,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,1,4
+piranha,Male,North America,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,0,4
+pitviper,Male,South America,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,3
+platypus,Female,Asia,1,0,1,1,0,1,1,0,1,1,0,0,4,1,0,1,1
+polecat,Male,Europe,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+pony,Male,Asia,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1,1
+porpoise,Male,Africa,0,0,0,1,0,1,1,1,1,1,0,1,0,1,0,1,1
+puma,Female,North America,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+pussycat,Female,Oceania,1,0,0,1,0,0,1,1,1,1,0,0,4,1,1,1,1
+raccoon,Male,Africa,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+reindeer,Male,South America,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1,1
+rhea,Male,North America,0,1,1,0,0,0,1,0,1,1,0,0,2,1,0,1,2
+scorpion,Male,Europe,0,0,0,0,0,0,1,0,0,1,1,0,8,1,0,0,7
+seahorse,Female,Asia,0,0,1,0,0,1,0,1,1,0,0,1,0,1,0,0,4
+seal,Female,Africa,1,0,0,1,0,1,1,1,1,1,0,1,0,0,0,1,1
+sealion,Female,Europe,1,0,0,1,0,1,1,1,1,1,0,1,2,1,0,1,1
+seasnake,Male,South America,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,3
+seawasp,Female,Asia,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,7
+skimmer,Male,Asia,0,1,1,0,1,1,1,0,1,1,0,0,2,1,0,0,2
+skua,Female,North America,0,1,1,0,1,1,1,0,1,1,0,0,2,1,0,0,2
+slowworm,Male,Europe,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0,0,3
+slug,Male,Africa,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,7
+sole,Male,Africa,0,0,1,0,0,1,0,1,1,0,0,1,0,1,0,0,4
+sparrow,Female,Asia,0,1,1,0,1,0,0,0,1,1,0,0,2,1,0,0,2
+squirrel,Male,South America,1,0,0,1,0,0,0,1,1,1,0,0,2,1,0,0,1
+starfish,Male,Asia,0,0,1,0,0,1,1,0,0,0,0,0,5,0,0,0,7
+stingray,Male,North America,0,0,1,0,0,1,1,1,1,0,1,1,0,1,0,1,4
+swan,Female,Europe,0,1,1,0,1,1,0,0,1,1,0,0,2,1,0,1,2
+termite,Female,Asia,0,0,1,0,0,0,0,0,0,1,0,0,6,0,0,0,6
+toad,Female,Europe,0,0,1,0,0,1,0,1,1,1,0,0,4,0,0,0,5
+tortoise,Male,Africa,0,0,1,0,0,0,0,0,1,1,0,0,4,1,0,1,3
+tuatara,Male,South America,0,0,1,0,0,0,1,1,1,1,0,0,4,1,0,0,3
+tuna,Female,Europe,0,0,1,0,0,1,1,1,1,0,0,1,0,1,0,1,4
+vampire,Male,North America,1,0,0,1,1,0,0,1,1,1,0,0,2,1,0,0,1
+vole,Female,South America,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,0,1
+vulture,Female,Asia,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,1,2
+wallaby,Male,Asia,1,0,0,1,0,0,0,1,1,1,0,0,2,1,0,1,1
+wasp,Male,South America,1,0,1,0,1,0,0,0,0,1,1,0,6,0,0,0,6
+wolf,Female,South America,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+worm,Male,Asia,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,7
+wren,Male,Oceania,0,1,1,0,1,0,0,0,1,1,0,0,2,1,0,0,2
